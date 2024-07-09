@@ -1,0 +1,11 @@
+div {
+    height: 500px;
+    width: 100%;
+    background-image: url(img/notebook.jpg);
+    background-size: cover;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+}
